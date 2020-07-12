@@ -1,0 +1,72 @@
+body {
+  background-image: url("../images/sunset.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+header {
+  text-align: center;
+  line-height: 0.4;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: rgb(107, 27, 27);
+  letter-spacing: 3.5rem;
+  font-family: "Arial", serif;
+}
+
+h2 {
+  font-family: "Arial", serif;
+  font-size: px;
+  background-color: #000000;
+  color: rgb(245, 21, 21);
+  padding: px;
+}
+.main-content {
+  background-color: ();
+  margin: auto;
+  text-align: center;
+  width: 75%;
+  border-radius: 20px;
+  font-family: ‘Arial’, sans-serif;
+  height: 400px;
+  color: #9bad86;
+  font-size: 25px;
+  font-weight: 800;
+  height: 80%;
+}
+.startButton {
+  padding: px px;
+  border-radius: px;
+  background-color: #e4e7e4;
+  color: #48b139;
+  font-size: px;
+  margin: px px;
+  border: solid px #48b139;
+  font-weight: 650;
+}
+button:hover {
+  background-color: #641b1b;
+}
+.optionButton {
+  background-color: #051303;
+  padding: 15px;
+  width: 70%;
+  border: 1px solid #48b139;
+  border-radius: 10px;
+  color: rgb(37, 11, 109);
+  font-size: 18px;
+  margin: 10px;
+}
+.resetButton {
+  background-color: rgb(219, 156, 156);
+  padding: px;
+  border: px solid rgb(78, 54, 54);
+  border-radius: px;
+  color: rgb(247, 89, 89);
+  font-size: px;
+  margin: px;
+}
